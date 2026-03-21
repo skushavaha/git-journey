@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 three
+=======
+three
+3
+>>>>>>> main
